@@ -3,5 +3,5 @@
 - 📚 Atualmente estudo diariamente desenvolvimento Front-End!
 - 👨‍💻 Dentre as tecnologias que domino, estão: JavaScript, React, HTML, CSS, Tailwind e Git.
 
-<img src="banner.webp" width = "323px" margin-left = "30%">
+<img src="banner.webp" width = "323px" align = "center">
 
