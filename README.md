@@ -1,4 +1,8 @@
-## Hi there 👋
+## Olá, me chamo Kauan Lopes, seja bem vindo ao meu git! 👋
+
+- 📚 Atualmente estudo diariamente desenvolvimento Front-End!
+- 👨‍💻 Dentre as tecnologias que domino, estão: JavaScript, React, HTML, CSS, Tailwind e Git.
+
 
 <!--
 **Winn4K/Winn4K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
