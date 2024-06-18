@@ -16,7 +16,7 @@
 </div>
 
 <div id="badges">
-  <a href = "https://github.com/Winn4K">
+  <a href = "https://www.linkedin.com/in/kauan-lopes-rodrigues-078413143/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
