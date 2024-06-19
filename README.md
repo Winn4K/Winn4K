@@ -1,6 +1,6 @@
 ## Olá, me chamo Kauan Lopes, seja bem vindo ao meu git! 👋 
 
-<p>siga-me nas minhas redes sociais: <img src="banner.webp" width = "200em" align="right"></p>
+<p>siga-me nas minhas redes sociais: <img src="banner.webp" width = "180em" align="right"></p>
 <div id="badges" >
   <a href = "https://www.linkedin.com/in/kauan-lopes-rodrigues-078413143/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
