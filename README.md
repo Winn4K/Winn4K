@@ -1,6 +1,14 @@
 ## Olá, me chamo Kauan Lopes, seja bem vindo ao meu git! 👋 
 
-<img src="banner.webp" width = "200px" align="right">
+<p>siga-me nas minhas redes sociais: <img src="banner.webp" width = "180em" align="right"></p>
+<div id="badges" >
+  <a href = "https://www.linkedin.com/in/kauan-lopes-rodrigues-078413143/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+</div>
+
+
 
 - 📚 Atualmente estudo diariamente desenvolvimento Front-End!
 
@@ -14,15 +22,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
 
+
+
 ---
 
 <br>
-<p>siga-me nas minhas redes sociais:</p>
-<div id="badges" >
-  <a href = "https://www.linkedin.com/in/kauan-lopes-rodrigues-078413143/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+
+<div align = "left">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winn4k&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=winn4k&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+
 </div>
-
-
 
