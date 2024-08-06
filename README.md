@@ -10,8 +10,8 @@
 
 <br>
 
-- 📚 Atualmente estudo diariamente desenvolvimento Front-End!
-- 👨‍💻 Procurando oportunidades na área de desenvolvimento Front-End
+- 📚 Atualmente estudo diariamente desenvolvimento Front-End com React.
+- 👨‍💻 Procurando oportunidades na área de desenvolvimento Front-End.
 
 <div align="left" margin="40px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
