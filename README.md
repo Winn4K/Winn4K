@@ -13,7 +13,7 @@
 - 📚 Atualmente estudo diariamente desenvolvimento Front-End com React.
 - 👨‍💻 Procurando oportunidades na área de desenvolvimento Front-End.
 - 🌐 Dê uma olhada no meu portifólio.
-  <a href = "https://www.linkedin.com/in/kauan-lopes-rodrigues-078413143/">
+  <a href = "https://kauan-rodrigues.netlify.app/">
     Link
   </a>
 
